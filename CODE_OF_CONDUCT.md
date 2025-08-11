@@ -1,7 +1,5 @@
 
 ---
-
-## ** CODE_OF_CONDUCT.md **
 # 📜 Syncli Community Code of Conduct
 
 We are committed to creating a **safe, welcoming, and productive** environment for everyone.
